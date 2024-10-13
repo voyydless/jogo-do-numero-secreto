@@ -1,0 +1,17 @@
+commit 1d13f07019b6d7580b62d9a3aee4b127fba432d7 (HEAD -> main)
+Author: Sab <skiirford@gmail.com>
+Date:   Sat Oct 12 18:41:48 2024 -0300
+
+    Deixando o jogo mais fácil
+
+commit 5e8d4af80dd63b03ba05f3e47ec49afe6d14fef0
+Author: Sab <skiirford@gmail.com>
+Date:   Fri Oct 11 10:20:49 2024 -0300
+
+    Alteração de limite para 100
+
+commit 448c88e91b8d50cd5481f9a54d1bd7b1c484124c
+Author: voyydless <skiirford@gmail.com>
+Date:   Thu Oct 3 09:45:25 2024 -0300
+
+    Add files via upload
